@@ -61,3 +61,13 @@ React Native (Expo) app built as one consistent project for 4 lab works.
 - Demonstrate biometric login in `Login` and secure toggle in `Security`.
 - Show `Lock` or `CriticalAction` screens that require biometric confirmation.
 - Show tests in `__tests__/biometric.test.ts` and explain mocked scenarios.
+
+The app has been tested on IOS and Android emulators.
+
+Android:
+
+<img src="./Android RN Labs.gif" alt="android" width="200" height="400" />
+
+IOS:
+
+<img src="./IOS RN Labs.gif" alt="ios" width="200" height="400" />
