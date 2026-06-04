@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Main test",
+      "setup": "npm install",
+      "run": "npm test -- --watchAll=false --coverage",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
