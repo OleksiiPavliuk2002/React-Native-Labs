@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "RN Labs App",
+    "slug": "rn-labs-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
